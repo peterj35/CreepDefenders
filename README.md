@@ -1,6 +1,6 @@
 CreepDefenders
 ==============
 
-A simple working prototype of a game created in Unity. Incomplete.
+A single code snippet for my prototype game CreepDefenders created in Unity.
 
-Does not contain all scripts needed to run! Contains the most 'complex' portion of the game's logic.
+The PlayerInteractions.cs script manages the player's interactions with the game world, such as calculating current health, placing new defenders and so on.
